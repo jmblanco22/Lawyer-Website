@@ -1,0 +1,9 @@
+.section-label{
+  display:block;
+  font-size:.82rem;
+  font-weight:800;
+  letter-spacing:.12em;
+  text-transform:uppercase;
+  color:#5b6575;
+  margin-bottom:10px;
+}
